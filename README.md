@@ -2,7 +2,7 @@
 
 ## 1. Datos generales
 
-- **Nombre completo:** Ana Patricia Alas
+- **Nombre completo:** Ana P Alas
 - **Carné:** 01738552-6
 - **Correo institucional:**  palasugb@gmail.com
 - **Asignatura:** Lenguajes de Programación con Aspectos de Seguridad 03-2026
