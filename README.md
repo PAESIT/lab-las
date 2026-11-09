@@ -3,7 +3,7 @@
 ## 1. Datos generales
 
 - **Nombre completo:** Ana P Alas
-- **Carné:** 01738552-6
+- **Carné:** 0000173855266
 - **Correo institucional:**  palasugb@gmail.com
 - **Asignatura:** Lenguajes de Programación con Aspectos de Seguridad 03-2026
 - **Fecha:** 11/09/2026
